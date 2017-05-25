@@ -1,1 +1,14 @@
+// :) COMMUNISM IS GOOD :) //
+
+body {
+    background: url("background.png") no-repeat center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+p {
+    color: black;
+    font-family: 'Roboto', sans-serif;
+}
 
